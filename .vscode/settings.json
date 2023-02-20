@@ -16,5 +16,6 @@
     },
     "emmet.showSuggestionsAsSnippets": true,
     "editor.tabCompletion": "on",
-    "editor.suggestSelection": "recentlyUsedByPrefix"
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "editor.guides.bracketPairs": "active"
 }
