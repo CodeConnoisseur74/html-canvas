@@ -1,0 +1,20 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "powermode.presets": "flames",
+    "powermode.enabled": true,
+    "github.copilot.advanced": {},
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.tabCompletion": "on",
+    "editor.suggestSelection": "recentlyUsedByPrefix"
+}
